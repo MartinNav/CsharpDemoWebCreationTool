@@ -1,0 +1,14 @@
+E:\CppAI\WebPageCreationTool\bin\Debug\WebPageCreationTool.exe.config
+E:\CppAI\WebPageCreationTool\bin\Debug\WebPageCreationTool.exe
+E:\CppAI\WebPageCreationTool\bin\Debug\WebPageCreationTool.pdb
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.csproj.AssemblyReference.cache
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.Form1.resources
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.Properties.Resources.resources
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.csproj.GenerateResource.cache
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.csproj.CoreCompileInputs.cache
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.exe
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.pdb
+E:\CppAI\WebPageCreationTool\bin\Debug\WebPageCreationTool.exe.manifest
+E:\CppAI\WebPageCreationTool\bin\Debug\WebPageCreationTool.application
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.exe.manifest
+E:\CppAI\WebPageCreationTool\obj\Debug\WebPageCreationTool.application
